@@ -1,0 +1,16 @@
+.article {
+  max-width: 400px;
+  margin: 30px auto;
+  background: #aaa;
+  box-shadow: 0 25px 25px;
+}
+
+.article-photo {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.article-content {
+  padding: 25px;
+}
